@@ -1,0 +1,9 @@
+README.md
+setup.py
+RatingsandReviewLibrary.egg-info/PKG-INFO
+RatingsandReviewLibrary.egg-info/SOURCES.txt
+RatingsandReviewLibrary.egg-info/dependency_links.txt
+RatingsandReviewLibrary.egg-info/top_level.txt
+reviewrating/__init__.py
+reviewrating/user_ratings.py
+reviewrating/user_review.py
